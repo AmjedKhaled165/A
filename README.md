@@ -1,3 +1,8 @@
+### 1. Quality Management Plan (QMP)
+Test Case: Establish a comprehensive QMP for the project.
+
+Plan: Define roles and responsibilities for quality assurance, outline processes for risk management, and detail procedures for monitoring and evaluating system performance to ensure adherence to quality standards.
+
 ### 1. Quality Assurance (QA) Procedures
 **Test Case:** Ensure that the camera system meets the quality standards for image clarity and reliability.
 - **Procedure:** Regularly schedule system checks and audits of camera feeds to verify image resolution and functionality. Ensure compliance with standards for classroom environments.
@@ -34,8 +39,3 @@
 **Test Case:** Develop training for staff on using the monitoring system effectively.
 - **Materials:** Create user manuals and training sessions to educate school administration on interpreting notifications and taking appropriate actions when cheating is detected.
 
-### 10. Feedback and Continuous Improvement
-**Test Case:** Gather feedback from teachers and administrators on the system’s performance.
-- **Process:** Implement regular surveys or meetings to discuss the system’s effectiveness, gather suggestions, and prioritize areas for improvement based on user experiences.
-
-By applying these test cases to your project, you can ensure a robust framework for quality management that enhances the system's reliability and effectiveness in monitoring academic integrity.
